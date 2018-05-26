@@ -1,0 +1,31 @@
+button {
+	display: block;
+	margin: 0 auto;
+	background-color: #003399;
+	color: #ffffff;
+	border: none;
+	border-radius: 5px;	
+	padding: 10px 20px;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	cursor: pointer;
+	transition: .3s;
+}
+button:hover {
+	background-color: #004de6;
+}
+div {
+	float: left;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: #4db8ff;
+	margin: 10px;
+	line-height: 60px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	color: #ffffff;
+}
